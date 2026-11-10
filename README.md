@@ -19,10 +19,9 @@
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  TERMINAL (NEOFETCH)  ═══════════════════════════════ -->
-<!-- Quando tiver a foto em ASCII, substitua as letras "JG" à esquerda por ela -->
 ```text
                       gabriel@github
                       ──────────────────────────────────────
@@ -38,6 +37,8 @@
                       IDE.......: VS Code + Claude Code
                       Contato...: linkedin.com/in/SEU_LINKEDIN
 ```
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  SOBRE MIM  ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/> Sobre mim
@@ -79,10 +80,10 @@ const gabriel: Developer = {
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  EXPERIÊNCIA  ═══════════════════════════════ -->
-## 💼 Experiência
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30"/> Experiência
 
 <table>
 <tr>
@@ -118,12 +119,15 @@ const gabriel: Developer = {
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
-## 🛠️ Stack & ferramentas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Stack & ferramentas
 
 <div align="center">
+
+<img align="left" src="./assets/circuit-left.svg" width="110" alt=""/>
+<img align="right" src="./assets/circuit-right.svg" width="110" alt=""/>
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" alt="frontend"/>
@@ -147,10 +151,10 @@ const gabriel: Developer = {
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  PROJETOS  ═══════════════════════════════ -->
-## 🚀 Projetos em destaque
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Projetos em destaque
 
 <table>
 <tr>
@@ -194,10 +198,10 @@ const gabriel: Developer = {
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  COMO EU CONSTRUO  ═══════════════════════════════ -->
-## 🧭 Como eu construo um produto
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="30"/> Como eu construo um produto
 
 ```mermaid
 flowchart LR
@@ -246,11 +250,11 @@ Desde então, todo projeto meu passa por uma revisão de RLS antes do deploy.
 
 </details>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  ESTATÍSTICAS  ═══════════════════════════════ -->
 <!-- Os SVGs da pasta metrics/ são gerados pelo workflow .github/workflows/metrics.yml -->
-## 📊 Estatísticas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> Estatísticas
 
 <div align="center">
 
@@ -266,10 +270,10 @@ Desde então, todo projeto meu passa por uma revisão de RLS antes do deploy.
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  COBRINHA  ═══════════════════════════════ -->
-## 🐍 Comendo minhas contribuições
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> Comendo minhas contribuições
 
 <div align="center">
 <picture>
@@ -279,12 +283,16 @@ Desde então, todo projeto meu passa por uma revisão de RLS antes do deploy.
 </picture>
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 <div align="center">
 
-### 🤝 Bora construir algo junto?
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Right-Facing%20Fist.png" width="38"/>
+  &nbsp;Bora construir algo junto?&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Left-Facing%20Fist.png" width="38"/>
+</h3>
 
 Aberto a **projetos freelance**, **parcerias** e **trocas de ideia** sobre produto e SaaS.
 
