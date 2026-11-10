@@ -181,8 +181,9 @@ const gabriel: Developer = {
 </tr>
 
 <tr>
-<td>💸 <b>Racha Aí</b><br/><br/>
+<td>💸 <b><a href="https://github.com/JoaoGabrielMSantos/racha-ai">Racha Aí</a></b><br/><br/>
 <img src="https://img.shields.io/badge/status-em_desenvolvimento-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/github/last-commit/JoaoGabrielMSantos/racha-ai?style=flat-square&color=5B21B6&label=commit"/>
 </td>
 <td>Divide despesas de grupo e calcula quem deve pra quem, com acerto de contas via <b>QR Code Pix</b>.</td>
 <td><code>React</code> <code>TS</code> <code>Supabase</code> <code>Pix</code></td>

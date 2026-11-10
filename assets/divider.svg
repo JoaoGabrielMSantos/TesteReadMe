@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#5B21B6" stop-opacity="0"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#5B21B6" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="c" x1="0" x2="1"><stop offset="0" stop-color="#E9D5FF" stop-opacity="0"/><stop offset=".5" stop-color="#E9D5FF"/><stop offset="1" stop-color="#E9D5FF" stop-opacity="0"/></linearGradient></defs>
+<line x1="0" y1="15" x2="900" y2="15" stroke="url(#l)" stroke-width="1.5"/>
+<rect y="13.5" width="140" height="3" rx="1.5" fill="url(#c)" filter="url(#g)"><animate attributeName="x" values="-140;900;900" keyTimes="0;.8;1" dur="4s" repeatCount="indefinite"/></rect>
+<g transform="translate(450.0,15)"><rect x="-6" y="-6" width="12" height="12" transform="rotate(45)" fill="#0D1117" stroke="#A78BFA" stroke-width="1.5"><animateTransform attributeName="transform" type="rotate" values="45;225;45" dur="6s" repeatCount="indefinite"/></rect><circle r="2.5" fill="#A78BFA" filter="url(#g)"><animate attributeName="r" values="2;3.5;2" dur="2s" repeatCount="indefinite"/></circle></g>
+<circle cx="410.0" cy="15" r="2" fill="#A78BFA"/><circle cx="490.0" cy="15" r="2" fill="#A78BFA"/>
+</svg>
